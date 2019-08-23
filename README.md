@@ -17,4 +17,4 @@ we intend to provide a path which is least polluted among all possible paths. Du
 If the start, end, and at least one waypoint are all defined then the optimal route will be displayed on the map, and directions will be displayed in a panel to the right of the map.  
 You can hide/show the panel using the button in the top right of the panel.
 
-Final output path is the recommended path with least pollution
+Final output path is the recommended path with least pollution via one of the waypoints.
