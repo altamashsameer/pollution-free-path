@@ -9,7 +9,7 @@ we intend to provide a path which is least polluted among all possible paths. Du
 
 #### How to use
 
-1. Go to https://altamashsameer.github.io
+1.Go to https://altamashsameer.github.io
 
 2.Enter the start location in the "Set start location" search box
 
